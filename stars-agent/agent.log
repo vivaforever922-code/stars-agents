@@ -1,0 +1,15 @@
+2026-11-08 15:10:53.149 | INFO     | __main__:main:30 - agent demarre
+2026-11-08 15:12:04.118 | INFO     | __main__:main:30 - agent demarre
+2026-11-08 15:12:04.118 | WARNING  | programs:discover:13 - discover indisponible: %s
+2026-11-08 15:12:04.119 | INFO     | programs:join_pending:29 - join_pending: rien a faire (placeholder)
+2026-11-08 15:12:05.132 | INFO     | __main__:process_missions:12 - Mission recue: %s
+2026-11-08 15:13:02.343 | INFO     | __main__:main:30 - agent demarre
+2026-11-08 15:13:02.344 | WARNING  | programs:discover:13 - discover indisponible: module 'telethon.tl.functions.payments' has no attribute 'GetSuggestedStarRefBotsRequest'
+2026-11-08 15:13:02.345 | INFO     | programs:join_pending:29 - join_pending: rien a faire (placeholder)
+2026-11-08 15:18:50.013 | INFO     | __main__:main:30 - agent demarre
+2026-11-08 15:18:50.014 | WARNING  | programs:discover:13 - discover indisponible: module 'telethon.tl.functions.payments' has no attribute 'GetSuggestedStarRefBotsRequest'
+2026-11-08 15:18:50.016 | INFO     | programs:join_pending:29 - join_pending: rien a faire (placeholder)
+2026-11-08 15:18:50.019 | WARNING  | distributor:load_targets:9 - targets.txt manquant
+2026-11-08 15:18:50.020 | INFO     | distributor:distribute:34 - aucune cible dans targets.txt
+2026-11-08 15:18:50.737 | INFO     | tracker:snapshot:14 - solde snapshot: 0 étoiles
+2026-11-08 15:18:50.743 | INFO     | __main__:process_missions:12 - Mission recue: cherche des groupe pour ganer usdt

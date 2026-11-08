@@ -1,0 +1,13 @@
+[Unit]
+Description=stars-agent
+After=network-online.target
+
+[Service]
+WorkingDirectory=/opt/stars-agent
+ExecStart=/opt/stars-agent/.venv/bin/python main.py
+Restart=always
+RestartSec=30
+User=stars
+
+[Install]
+WantedBy=multi-user.target
